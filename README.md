@@ -1,0 +1,2 @@
+This is the public storage area for our Wise Shuffling application to automatically provide scrambled paptide sequences as described in out paper (TO BE ADDED) or bz changing the options in the application.
+The storage contains a LICENSE file, sorce files in the source.zip file and the binary runneble jar, WS.jar which can run with java directly. If you need further assistance, please contact the owner of the project.
